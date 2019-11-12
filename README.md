@@ -1,2 +1,2 @@
 # python_jupyter_notebook_basics
-Getting started with Jupyter notebooks.  Check out the [Getting Started With The Basics](Getting Started With The Basics.md) file and [this video](https://youtu.be/DGA3qYvVBtE) for more.
+Getting started with Jupyter notebooks.  Check out the [Getting Started With The Basics](Getting%20Started%20With%20The%20Basics.md) file and [this video](https://youtu.be/DGA3qYvVBtE) for more.
