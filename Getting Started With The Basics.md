@@ -2,7 +2,7 @@
 
 This file is for people who are still early in learning Python, Jupyter notebooks, and the terminal/command line.
 
-See this video for a walkthrough of the content.
+See [this video](https://youtu.be/DGA3qYvVBtE) for a walkthrough of the content.
 
 Related files (week 1 content):
 - `Python_basics.ipynb`
