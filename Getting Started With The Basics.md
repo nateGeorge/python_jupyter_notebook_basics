@@ -4,7 +4,7 @@ This file is for people who are still early in learning Python, Jupyter notebook
 
 See [this video](https://youtu.be/DGA3qYvVBtE) for a walkthrough of the content.
 
-Related files (week 1 content):
+Related files:
 - `Python_basics.ipynb`
 - `Python_Functions_Tutorial.ipynb`
 
@@ -39,7 +39,7 @@ Download the `.ipynb` file(s) under the week 1 content, navigate to the folder w
 
 There is also a Jupyter notebook under the week 1 content (`Python_basics.ipynb`) you can go through as a Python/Jupyter notebook refresher or learning experience.  Or DataCamp also has a [Jupyter notebook tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook). For all assignments, we will do them in Jupyter notebooks and export PDFs.  There is another file, `Python_Functions_Tutorial.ipynb` which can help you learn functions in Python if you're not familiar.
 
-Lastly, here are some getting started with Jupyter notebooks videos:
+Lastly, here are some more getting started with Jupyter notebooks videos:
 - [Windows](https://youtu.be/epaC7PCtWxk)
 - [Mac/Linux](https://youtu.be/xYuUrHOAE5Y)
 
